@@ -8,6 +8,10 @@
 
 ![Alucard theme for OpusWriter](./screenshot/02-alucard.png)
 
+> Bloodwine, a dark theme
+
+![Bloodwine theme for OpusWriter](./SCR-20261112-sulv.png)
+
 ## Install
 
 All instructions can be found at [draculatheme.com/opus-writer](https://draculatheme.com/opus-writer).
